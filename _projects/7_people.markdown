@@ -2,7 +2,7 @@
 layout: page
 title: Mimi-chan
 description: 2020-present
-img: /assets/img/Mimi-chan2020.jpg
+img: /assets/img/test.jpg
 importance: 1
 category: Staff
 ---
