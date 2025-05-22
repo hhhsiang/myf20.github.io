@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: List of selected publications
+description: corresponding author is marked by *
 nav: true
 ---
 
