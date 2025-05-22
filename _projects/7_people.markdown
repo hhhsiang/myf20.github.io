@@ -9,7 +9,7 @@ category: Staff
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Mimi-chan2020.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/test.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 
